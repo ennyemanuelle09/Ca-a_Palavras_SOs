@@ -1,0 +1,42 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    text-align: center;
+    margin: 0;
+    padding: 30px;
+}
+
+h1 {
+    color: #174a35;
+}
+
+h2 {
+    color: #333333;
+}
+
+select, button {
+    padding: 10px;
+    margin: 8px;
+    font-size: 16px;
+    border-radius: 6px;
+}
+
+button {
+    background-color: #217346;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #174a35;
+}
+
+#jogo {
+    margin: 25px auto;
+    max-width: 700px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+}
